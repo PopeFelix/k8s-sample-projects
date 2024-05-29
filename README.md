@@ -1,2 +1,3 @@
 # k8s-sample-projects
-Kubernetes sample projects
+
+Some sample projects for me to learn Kubernetes
